@@ -1,0 +1,1 @@
+cmake -DCMAKE_BUILD_TYPE=Release -DCMAKE_TOOLCHAIN_FILE=../ios/ios.toolchain.cmake -DIOS_PLATFORM=OS -DIOS_ARCH="armv7;armv7s;arm64" ../ios

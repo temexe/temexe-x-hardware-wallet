@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e3facfd-bdba-4d03-8737-4faa500b4913" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/nmw_wallet/test_example.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/nmw_wallet/test_example.cpp" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="test_example.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nmw_wallet_core.hpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nmw_wallet_core.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10830">
+              <caret line="722" selection-start-line="722" selection-end-line="722" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>{</find>
+      <find>secret</find>
+      <find>derivedPrivateByKey</find>
+      <find>net</find>
+      <find>0x8</find>
+      <find>derivedPrivateByMnemonic</find>
+      <find>buildEthRawTransaction</find>
+      <find>buildBtcRawTransaction</find>
+      <find>Test_derivedPrivateByMnemonic</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp" />
+        <option value="$PROJECT_DIR$/src/nmw_wallet/test_example.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="240" />
+    <option name="y" value="48" />
+    <option name="width" value="1397" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wallet-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wallet-core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wallet-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wallet-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wallet-core" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wallet-core" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="nmw_wallet" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e3facfd-bdba-4d03-8737-4faa500b4913" name="Default" comment="" />
+      <created>1530237235787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530237235787</updated>
+      <workItem from="1530237238285" duration="3891000" />
+      <workItem from="1530334963225" duration="3358000" />
+      <workItem from="1530522546488" duration="836000" />
+      <workItem from="1530606314815" duration="442000" />
+      <workItem from="1530751245160" duration="6179000" />
+      <workItem from="1530842789566" duration="5512000" />
+      <workItem from="1531111290152" duration="4088000" />
+      <workItem from="1531535655687" duration="965000" />
+      <workItem from="1531548707860" duration="12000" />
+      <workItem from="1531548809747" duration="478000" />
+      <workItem from="1531720529555" duration="1631000" />
+      <workItem from="1531728626980" duration="747000" />
+      <workItem from="1531982965909" duration="2996000" />
+      <workItem from="1533105127277" duration="351000" />
+      <workItem from="1533177480192" duration="5187000" />
+      <workItem from="1533275595513" duration="16000" />
+      <workItem from="1533352779632" duration="1466000" />
+      <workItem from="1533376458574" duration="292000" />
+      <workItem from="1533443570070" duration="18004000" />
+      <workItem from="1533633565816" duration="2070000" />
+      <workItem from="1534212651562" duration="880000" />
+      <workItem from="1534924896837" duration="322000" />
+      <workItem from="1535864994143" duration="347000" />
+      <workItem from="1535960011275" duration="1953000" />
+      <workItem from="1539948824090" duration="6660000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加助记词生成公网私钥支持">
+      <created>1533641448120</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1533641448120</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68683000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="240" y="48" width="1397" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17465998" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="7" visible="true" weight="0.1618929" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加助记词生成公网私钥支持" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加助记词生成公网私钥支持" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp</url>
+          <line>256</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="21" selection-start-line="77" selection-start-column="21" selection-end-line="77" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10800">
+          <caret line="720" column="46" selection-start-line="720" selection-start-column="46" selection-end-line="720" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2280">
+          <caret line="152" column="1" selection-start-line="152" selection-start-column="1" selection-end-line="152" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10800">
+          <caret line="720" column="46" lean-forward="true" selection-start-line="720" selection-start-column="46" selection-end-line="720" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="300" selection-start-line="142" selection-start-column="300" selection-end-line="142" selection-end-column="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6150">
+          <caret line="410" selection-start-line="410" selection-end-line="410" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9720">
+          <caret line="648" column="44" selection-start-line="648" selection-start-column="22" selection-end-line="648" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1800">
+          <caret line="120" column="14" selection-start-line="120" selection-start-column="14" selection-end-line="120" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9720">
+          <caret line="648" column="44" selection-start-line="648" selection-start-column="22" selection-end-line="648" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1635">
+          <caret line="109" column="7" selection-start-line="109" selection-start-column="7" selection-end-line="109" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5370">
+          <caret line="358" selection-start-line="358" selection-end-line="358" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1485">
+          <caret line="99" column="10" lean-forward="true" selection-start-line="99" selection-start-column="10" selection-end-line="99" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5370">
+          <caret line="358" lean-forward="true" selection-start-line="358" selection-end-line="358" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="39" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5235">
+          <caret line="349" column="81" selection-start-line="349" selection-start-column="71" selection-end-line="349" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1650">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4770">
+          <caret line="318" column="41" selection-start-line="318" selection-start-column="22" selection-end-line="318" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="114" column="55" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="24" lean-forward="true" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9045">
+          <caret line="603" column="53" selection-start-line="603" selection-start-column="53" selection-end-line="603" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1695">
+          <caret line="113" column="84" selection-start-line="113" selection-start-column="84" selection-end-line="113" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="140" column="309" selection-start-line="140" selection-start-column="309" selection-end-line="140" selection-end-column="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2130">
+          <caret line="142" column="76" selection-start-line="142" selection-start-column="68" selection-end-line="142" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2235">
+          <caret line="149" column="23" selection-start-line="149" selection-start-column="23" selection-end-line="149" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="134" column="20" lean-forward="true" selection-start-line="132" selection-start-column="25" selection-end-line="134" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="123" column="198" selection-start-line="123" selection-start-column="198" selection-end-line="123" selection-end-column="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="1" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="127" column="1" lean-forward="true" selection-start-line="127" selection-start-column="1" selection-end-line="127" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="21" lean-forward="true" selection-start-line="129" selection-start-column="21" selection-end-line="129" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="7" selection-start-line="115" selection-start-column="4" selection-end-line="115" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Makefile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="23" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/Android.mk">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.o">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/nmw_wallet_core.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10830">
+          <caret line="722" selection-start-line="722" selection-end-line="722" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nmw_wallet/test_example.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="112" column="13" lean-forward="true" selection-start-line="112" selection-start-column="13" selection-end-line="112" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

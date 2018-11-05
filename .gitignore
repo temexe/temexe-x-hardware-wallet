@@ -1,0 +1,13 @@
+/libs
+/include/libdevcrypto/.libs/*.o
+*.o
+*.lo
+/src/nmw_wallet/*.a
+/src/nmw_wallet/st83v3XL
+/src/nmw_wallet/stnn2GTd
+/src/nmw_wallet/styAcZRU
+.DS_Store
+obj
+.history
+ios-cmake
+build
